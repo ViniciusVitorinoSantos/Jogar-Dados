@@ -6,5 +6,7 @@
   O jogo recebe o nome de 2 jogadores e depois de 3 rodadas mostra quem foi o vencedor e o perdedor!
 </h3>
 
-- [x] para bincar com 2 jogadores 
+- [x] Dara bincar com 2 jogadores
+- [x] Da pra melhorar bastante o código
+- [x] Dentro tem anotações minhas como sou estudante toda informação é valida!
 
